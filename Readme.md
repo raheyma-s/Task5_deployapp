@@ -1,13 +1,11 @@
 # Titanic Survival Prediction
-
+Live Demo: https://taskfivedeploy.streamlit.app/
 ## Project Description
-
 This project uses a Random Forest machine learning model to predict
 whether a Titanic passenger would have survived based on passenger
 information.
 
 ## Features
-
 - Passenger Class
 - Sex
 - Age
@@ -17,11 +15,9 @@ information.
 - Port of Embarkation
 
 ## Machine Learning Model
-
 Random Forest Classifier
 
 ## Technologies
-
 - Python
 - Pandas
 - Scikit-learn
